@@ -47,7 +47,7 @@ The project follows a clean MVC pattern where the frontend interacts with the ba
 
 1. **Clone the repo**
    
-   git clone https://github.com/your-username/gym-management-system.git
+   git clone https://github.com/your-username/gym-management-system.git.
    cd gym-management-system
 
 2. **Set Up the Database**
@@ -69,24 +69,7 @@ The project follows a clean MVC pattern where the frontend interacts with the ba
 
 ---
 
-## 📂 Project Structure
 
-**gym-management-system/**
-**├── index.php # Login Page
-├── dashboard.php # User Dashboard
-├── gym-details.php # Gym Details Page
-├── membership.php # Membership Plans
-├── members.php # Member Management
-├── payments.php # Payment Tracking
-├── trainers.php # Trainer Profiles
-├── db/ # Database Connection Files
-├── assets/ # CSS, JS, Images
-└── gym_management.sql # SQL Dump File**
-
-yaml
-Copy code
-
----
 
 ## 📈 Sequence Diagram
 
@@ -105,56 +88,12 @@ The following sequence diagram explains how the system components interact with 
 - **Manage Members**
 - **Payment Details**
 - **Trainer Details**
-
-Example:
-```markdown
-![Login Page](screenshots/login.png)
-![Dashboard](screenshots/dashboard.png)
-📌 Features
-🔐 Secure Login with database validation
-
-📋 View Gym and Membership Details
-
-👥 Manage Members and Trainers
-
-💳 View and Manage Payment Records
-
-📊 Dashboard for quick navigation
-
-🛠️ Technologies Used
-Frontend: HTML, CSS, JavaScript
-
-Backend: PHP
-
-Database: MySQL
-
-Server: XAMPP/WAMP/LAMP
-
-🙋‍♂️ Author
-Name: [Your Name]
-
-University: Presidency University
-
-Email: yourname@example.com
-
-LinkedIn: linkedin.com/in/your-profile
-
-📜 License
-This project is for educational and demonstration purposes only.
-
-yaml
-Copy code
-
+- 
 ---
-
-✅ You can now copy-paste this into your `README.md` file.  
-📸 Once you upload your screenshots, I’ll help you insert them correctly.
-
-Let me know if you want a **summary for resume or LinkedIn** too!
-
-
-
-
-
+#🙋‍♂️ Author
+-**Name: Ravi Baraker
+-Portfolio: [yourportfolio.com](http://ravib45-portfolio.vercel.app/)
+-LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/ravibarker/)
+-Email: ravibarker45@gmail.com**
 
 
