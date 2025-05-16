@@ -75,7 +75,7 @@ The project follows a clean MVC pattern where the frontend interacts with the ba
 
 The following sequence diagram explains how the system components interact with each other (User ↔ Web Application ↔ MySQL Database):
 
-![Sequence Diagram](SEQ.png)
+![Sequence Diagram](SCREENSHOTS/SEQ.png)
 
 ---
 
@@ -84,12 +84,9 @@ The following sequence diagram explains how the system components interact with 
 > _Replace these lines with actual image tags once your screenshots are uploaded._
 
 - **Login Page**
-- ![login page](SCREENSHOTS/Screenshot 2024-07-03 154546.png)
+- ![login page](log.png)
 - **Dashboard**
-- **Manage Members**
-- **Payment Details**
-- **Trainer Details**
-- 
+- ![dash page](dash.png)
 ---
 # 🙋‍♂️ Author
 
