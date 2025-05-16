@@ -46,21 +46,20 @@ The project follows a clean MVC pattern where the frontend interacts with the ba
 ## 🚀 How to Run Locally
 
 1. **Clone the repo**
-   ```bash
+   
    git clone https://github.com/your-username/gym-management-system.git
    cd gym-management-system
 
-   2. **Set Up the Database**
+2. **Set Up the Database**
    - Open **phpMyAdmin** or MySQL Workbench.
    - Create a new database named `gym_management`.
    - Import the `gym_management.sql` file from the project directory.
    - Update the database credentials in your configuration file (`db.php` or `config.php`):
-     ```php
      $servername = "localhost";
      $username = "root";
      $password = "";
      $dbname = "gym_management";
-     ```
+     
 
 3. **Run the Project**
    - If you're using **XAMPP**:
@@ -72,8 +71,8 @@ The project follows a clean MVC pattern where the frontend interacts with the ba
 
 ## 📂 Project Structure
 
-gym-management-system/
-├── index.php # Login Page
+**gym-management-system/**
+**├── index.php # Login Page
 ├── dashboard.php # User Dashboard
 ├── gym-details.php # Gym Details Page
 ├── membership.php # Membership Plans
@@ -82,7 +81,7 @@ gym-management-system/
 ├── trainers.php # Trainer Profiles
 ├── db/ # Database Connection Files
 ├── assets/ # CSS, JS, Images
-└── gym_management.sql # SQL Dump File
+└── gym_management.sql # SQL Dump File**
 
 yaml
 Copy code
