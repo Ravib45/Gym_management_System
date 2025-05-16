@@ -84,6 +84,7 @@ The following sequence diagram explains how the system components interact with 
 > _Replace these lines with actual image tags once your screenshots are uploaded._
 
 - **Login Page**
+- ![login page](SCREENSHOTS/Screenshot 2024-07-03 154546.png)
 - **Dashboard**
 - **Manage Members**
 - **Payment Details**
