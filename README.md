@@ -90,10 +90,11 @@ The following sequence diagram explains how the system components interact with 
 - **Trainer Details**
 - 
 ---
-#🙋‍♂️ Author
--**Name: Ravi Baraker
--Portfolio: [yourportfolio.com](http://ravib45-portfolio.vercel.app/)
--LinkedIn: [linkedin.com/in/yourname](https://www.linkedin.com/in/ravibarker/)
--Email: ravibarker45@gmail.com**
+# 🙋‍♂️ Author
+
+- **Name:** Ravi Baraker  
+- **Portfolio:** [yourportfolio.com](http://ravib45-portfolio.vercel.app/)  
+- **LinkedIn:** [linkedin.com/in/ravibarker](https://www.linkedin.com/in/ravibarker/)  
+- **Email:** ravibarker45@gmail.com
 
 
