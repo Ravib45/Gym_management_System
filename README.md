@@ -66,7 +66,7 @@ The project follows a clean MVC pattern where the frontend interacts with the ba
 
 The following sequence diagram explains how the system components interact with each other (User ↔ Web Application ↔ MySQL Database):
 
-<img src="SCREENSHOTS/SEQ.png" alt="Sequence Diagram" width="600" />
+<img src="SCREENSHOTS/SEQ.png" alt="Sequence Diagram" width="1000" />
 
 
 ---
