@@ -81,12 +81,13 @@ The following sequence diagram explains how the system components interact with 
 
 ## 🖼️ Screenshots
 
-> _Replace these lines with actual image tags once your screenshots are uploaded._
 
 - **Login Page**
 - ![login page](log.png)
+  
 - **Dashboard**
 - ![dash page](dash.png)
+  
 ---
 # 🙋‍♂️ Author
 
