@@ -32,16 +32,7 @@ The project follows a clean MVC pattern where the frontend interacts with the ba
 2. **Dashboard** – User is redirected to dashboard with user-specific data.
 3. **View Details** – Fetch and display gym, membership, members, payments, and trainers using database queries.
 
-### 📊 Sequence Diagram
-![Sequence Diagram](SEQ.png)
 
----
-
-## 📸 Screenshots
-
-> _Add screenshots here once uploaded_
-
----
 
 ## 🚀 How to Run Locally
 
@@ -75,7 +66,8 @@ The project follows a clean MVC pattern where the frontend interacts with the ba
 
 The following sequence diagram explains how the system components interact with each other (User ↔ Web Application ↔ MySQL Database):
 
-![Sequence Diagram](SCREENSHOTS/SEQ.png)
+<img src="screenshots/SEQ.png" alt="Sequence Diagram" width="600" />
+
 
 ---
 
